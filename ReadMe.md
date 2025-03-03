@@ -84,7 +84,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dyuuz&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Dyuuz&theme=radical" alt="GitHub Streak" width="50%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dyuuz&theme=react-dark" alt="GitHub Activity Graph"/>
 </div>  
 
