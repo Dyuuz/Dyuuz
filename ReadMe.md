@@ -88,6 +88,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dyuuz&theme=react-dark" alt="GitHub Activity Graph"/>
 </div>  
 ---
+
 ## 🏆 **GitHub Achievements & Highlights**  
 
 🌟 **Tech Explorer** – Always learning and exploring new technologies!  
@@ -105,6 +106,7 @@
 
 🔥 **Open Source Contributor** – Committed to improving and sharing knowledge!  
 ![Open Source](https://img.shields.io/badge/Open_Source_Contributor-%E2%9C%A8-blueviolet?style=for-the-badge)
+
 ---
 
 ## 🌐 Connect with Me  
