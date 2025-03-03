@@ -33,7 +33,6 @@
 ### 🌐🤖 **ChatBot API**
 
 *An AI-powered authentication and messaging API that grants users tokens upon signup, enabling AI-driven responses while deducting tokens per message sent. Seamless authentication, smart conversations, and efficient token management—all in one API!*
-
 🔹 Built with: Django, DRF, JWT, SqLite, OpenAI API, PostMan
 
 🔹 **Repo:** [ChatAPI](https://github.com/Dyuuz/ChatAPI)
