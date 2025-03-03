@@ -1,15 +1,15 @@
 # Hi there, I'm **Lekan** 👋  
 
 🔹 **Django Developer | Python Geek | Software Engineer Explorer**  
-🔹 Passionate about **Web Security, AI, and Machine Learning**  
+🔹 Passionate about **Backend Development, AI, and Machine Learning**  
 🔹 I enjoy **building scalable and secure web applications**  
 
 ---
 
 ## 🚀 About Me  
-💻 I specialize in **Django, Python, Web development**  
+💻 I specialize in **Backend Development in software applications**  
 📊 Currently working on **Tech Scape Blog & internship programs**  
-📚 Exploring **Advanced Django concepts & System Security**  
+📚 Exploring **Advanced Django concepts & System Security and Scalability**  
 💡 Always eager to solve problems and optimize performance  
 
 ---
@@ -19,12 +19,12 @@
 ### 🔐 **Data Vault System**  
 *A secure system for managing encrypted user data with unique access tokens.*  
 🔹 **Built with:** Django, Python, Cryptography  
-🔹 **Repo:** [Data Vault System](https://github.com/Dyuuz/DataVault)  
+🔹 **Repo:** [Data Vault System](https://github.com/Dyuuz/Data-Vault)  
 
 ### 🤖 **Tech Scape**  
 *A chatbot that helps users implement security best practices and authentication.*  
-🔹 **Built with:** Django, Python, AI models  
-🔹 **Repo:** [Data Bot System](https://github.com/WrenClark/DataBot)
+🔹 **Built with:** Django, Python, OAuth, Cloudinary, Jazzmin, postgreSQL.
+🔹 **Repo:** [TechScapeBlog](https://github.com/Dyuuz/Tech-Scape-Blog)
 
 ---
 
@@ -32,7 +32,7 @@
 
 📌 [Nigerians are building affordable alternatives to AWS and Google Cloud](https://techscape-swlm.onrender.com/News/nigerians-are-building-affordable-alternatives-to-aws-and-google-cloud)  
 📌 [How to Stay Ahead in Tech](https://techscape-swlm.onrender.com/Careers/how-to-stay-ahead-in-tech)  
-📌 [OpenAI rolls out deep research to paying ChatGPT users]([https://your-blog.com/data-vault-python](https://techscape-swlm.onrender.com/News/openai-rolls-out-deep-research-to-paying-chatgpt-users))  
+📌 [OpenAI rolls out deep research to paying ChatGPT users]([https://your-blog.com/data-vault-python](https://techscape-swlm.onrender.com/News/openai-rolls-out-deep-research-to-paying-chatgpt-users)
 
 📖 **Read more on my [blog](techscape-swlm.onrender.com)**  
 
@@ -83,8 +83,8 @@
 ---
 
 ## 🎯 Fun Fact  
-🔥 **I enjoy building projects that push the limits of Django and AI!**  
-🤖 **AI-powered security intrigues me, and I love sharing knowledge!**  
+🔥 **I believe every problem has a pythonic solution**  
+🧑‍💻 **Python was my first love... and Django made it even stronger.**
 
 ---
 
