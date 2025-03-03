@@ -19,6 +19,7 @@
 ### 🔐 **Data Vault System**  
 *A secure system for managing encrypted user data with unique access tokens.*  
 🔹 **Built with:** Django, Python, Cryptography  
+
 🔹 **Repo:** [Data Vault System](https://github.com/Dyuuz/Data-Vault)  
 
 ### 🌍🚀 **Tech Scape**  
@@ -35,7 +36,7 @@
 
 🔹 Built with: Django, DRF, JWT, SqLite, OpenAI API, PostMan
 
-🔹 **Repo:** [TechScapeBlog](https://github.com/Dyuuz/ChatAPI)
+🔹 **Repo:** [ChatAPI](https://github.com/Dyuuz/ChatAPI)
 
 📖 **Explore [ChatAPI](https://chatapi-1e6w.onrender.com/)**  
 
