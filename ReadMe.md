@@ -18,12 +18,14 @@
 
 ### 🔐 **Data Vault System**  
 *A secure system for managing encrypted user data with unique access tokens.*  
+
 🔹 **Built with:** Django, Python, Cryptography  
 
 🔹 **Repo:** [Data Vault System](https://github.com/Dyuuz/Data-Vault)  
 
 ### 🌍🚀 **Tech Scape**  
 *Your gateway to the evolving world of technology—covering software, hardware, AI, security, innovation, career tips, culture, and more. Stay updated, stay ahead!*  
+
 🔹 **Built with:** Django, Python, OAuth, Cloudinary, Jazzmin, postgreSQL.
 
 🔹 **Repo:** [TechScapeBlog](https://github.com/Dyuuz/Tech-Scape-Blog)
@@ -33,6 +35,7 @@
 ### 🌐🤖 **ChatBot API**
 
 *An AI-powered authentication and messaging API that grants users tokens upon signup, enabling AI-driven responses while deducting tokens per message sent. Seamless authentication, smart conversations, and efficient token management—all in one API!*
+
 🔹 Built with: Django, DRF, JWT, SqLite, OpenAI API, PostMan
 
 🔹 **Repo:** [ChatAPI](https://github.com/Dyuuz/ChatAPI)
