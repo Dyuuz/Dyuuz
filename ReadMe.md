@@ -30,7 +30,7 @@
 
 📖 **Explore more on [TechScape](techscape-swlm.onrender.com)**  
 
-### 🌐🤖 **ChatAPI**
+### 🌐🤖 **ChatBot API**
 
 *An AI-powered authentication and messaging API that grants users tokens upon signup, enabling AI-driven responses while deducting tokens per message sent. Seamless authentication, smart conversations, and efficient token management—all in one API!*
 
