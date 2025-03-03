@@ -87,7 +87,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dyuuz&theme=radical" alt="GitHub Streak" width="50%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dyuuz&theme=react-dark" alt="GitHub Activity Graph"/>
 </div>  
+---
+## 🏆 **GitHub Achievements & Highlights**  
 
+🌟 **Tech Explorer** – Always learning and exploring new technologies!  
+![Tech Explorer](https://img.shields.io/badge/Tech_Explorer-%F0%9F%8C%9F-blue?style=for-the-badge)  
+
+🛠️ **Django Maestro** – Crafting web applications with Django!  
+![Django Maestro](https://img.shields.io/badge/Django_Maestro-%F0%9F%9A%80-green?style=for-the-badge)  
+
+🔐 **Security Guardian** – Ensuring data privacy with encryption techniques!  
+![Security Guardian](https://img.shields.io/badge/Security_Guardian-%F0%9F%94%92-red?style=for-the-badge)  
+
+
+🤖 **AI Innovator** – Exploring AI-driven automation and intelligence!  
+![AI Innovator](https://img.shields.io/badge/AI_Innovator-%F0%9F%A4%96-purple?style=for-the-badge)  
+
+🔥 **Open Source Contributor** – Committed to improving and sharing knowledge!  
+![Open Source](https://img.shields.io/badge/Open_Source_Contributor-%E2%9C%A8-blueviolet?style=for-the-badge)
 ---
 
 ## 🌐 Connect with Me  
