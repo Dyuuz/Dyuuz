@@ -21,18 +21,29 @@
 🔹 **Built with:** Django, Python, Cryptography  
 🔹 **Repo:** [Data Vault System](https://github.com/Dyuuz/Data-Vault)  
 
-### 🤖 **Tech Scape**  
-*A chatbot that helps users implement security best practices and authentication.*  
+### 🌍🚀 **Tech Scape**  
+*Your gateway to the evolving world of technology—covering software, hardware, AI, security, innovation, career tips, culture, and more. Stay updated, stay ahead!*  
 🔹 **Built with:** Django, Python, OAuth, Cloudinary, Jazzmin, postgreSQL.
 🔹 **Repo:** [TechScapeBlog](https://github.com/Dyuuz/Tech-Scape-Blog)
 
+📖 **Explore more on [TechScape](techscape-swlm.onrender.com)**  
+
+### 🌐🤖 **ChatAPI**
+
+*An AI-powered authentication and messaging API that grants users tokens upon signup, enabling AI-driven responses while deducting tokens per message sent. Seamless authentication, smart conversations, and efficient token management—all in one API!*
+
+🔹 Built with: Django, DRF, JWT, SqLite, OpenAI API, PostMan
+🔹 **Repo:** [TechScapeBlog](https://github.com/Dyuuz/ChatAPI)
+
+📖 **Explore [ChatAPI](https://chatapi-1e6w.onrender.com/)**  
+
 ---
 
-## 📝 Recent Blog Posts  
+## 📝 Recent TechScape Blog Posts  
 
 📌 [Nigerians are building affordable alternatives to AWS and Google Cloud](https://techscape-swlm.onrender.com/News/nigerians-are-building-affordable-alternatives-to-aws-and-google-cloud)  
 📌 [How to Stay Ahead in Tech](https://techscape-swlm.onrender.com/Careers/how-to-stay-ahead-in-tech)  
-📌 [OpenAI rolls out deep research to paying ChatGPT users]([https://your-blog.com/data-vault-python](https://techscape-swlm.onrender.com/News/openai-rolls-out-deep-research-to-paying-chatgpt-users)
+📌 [OpenAI rolls out deep research to paying ChatGPT users](https://techscape-swlm.onrender.com/News/openai-rolls-out-deep-research-to-paying-chatgpt-users)
 
 📖 **Read more on my [blog](techscape-swlm.onrender.com)**  
 
