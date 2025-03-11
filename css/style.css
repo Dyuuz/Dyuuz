@@ -644,6 +644,11 @@ body.section-switching.up .animation-block{
 	text-transform:uppercase;
 	font-size:14px;
 	font-family: 'Roboto Mono', sans-serif;
+	color:rgba(0, 0, 0, 0.596)
+}
+
+.skill > p{
+	text-transform:uppercase;
 }
 /* .skill > .bar{
 	background:#E0E0E0;
@@ -1433,9 +1438,9 @@ body.loaded #preloader .loader{
 .skill {
     text-align: center;
     padding: 15px;
-    border: 1px solid #ddd;
+    border: 1px solid #5e595948;
     border-radius: 5px;
-    background: #f9f9f9;
+    /* background: #f9f9f9; */
 }
 
 /* Medium screens: 2 columns */
