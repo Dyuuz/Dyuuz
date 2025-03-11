@@ -1143,7 +1143,7 @@ body.section-switching.up .animation-block{
 }
 .popup-box > .content > p{
 	font-size:14px;
-	color:rgba(0,0,0,.45);
+	color:rgba(0, 0, 0, 0.836);
 	font-weight:500;
 }
 
@@ -1455,4 +1455,49 @@ body.loaded #preloader .loader{
     .row-inner {
         grid-template-columns: repeat(1, 1fr); /* 1 column */
     }
+}
+
+.link-container {
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.link-container a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: 0.3s ease;
+}
+
+.link {
+    background-color: #48649d;
+    color: white;
+}
+.link:hover {
+	background-color: #2a52a2;
+    color: white;
+}
+
+.github {
+    background-color: #48649d;
+    color: white;
+
+}
+.github:hover {
+    background-color: #2a52a2;
+    color: white;
+}
+
+a i {
+    font-size: 12px;
 }
