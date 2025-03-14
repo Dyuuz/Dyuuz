@@ -1,16 +1,12 @@
 # Hi there, I'm **Lekan** 👋  
 
-🔹 **Django Developer | Python Geek | Software Engineer Explorer**  
-🔹 Passionate about **Backend Development, AI, and Machine Learning**  
-🔹 I enjoy **building scalable and secure web applications**  
-
 ---
 
-## 🚀 About Me  
 💻 I specialize in **Backend Development in software applications**  
-📊 Currently working on **Tech Scape Blog & internship programs**  
-📚 Exploring **Advanced Django concepts & System Security and Scalability**  
+📊 I've worked on **personal projects & internship projects**  
+📚 Equipped in **Advanced Django concepts & System Security and Scalability**  
 💡 Always eager to solve problems and optimize performance  
+🧑‍💻 Passionate about **Backend Development, AI, and Machine Learning**  
 
 ---
 
