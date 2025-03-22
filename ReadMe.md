@@ -117,6 +117,6 @@
 🔥 **I believe every problem has a pythonic solution**  
 🧑‍💻 **Python was my first love... and Django made it even stronger.**
 
----
+--- 
 
 ### Want to collaborate or chat about ideas? **Let’s connect!** 🚀
