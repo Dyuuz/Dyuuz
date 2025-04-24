@@ -42,9 +42,9 @@
 
 ## 📝 Recent TechScape Blog Posts  
 
-📌 [Nigerians are building affordable alternatives to AWS and Google Cloud](https://techscape-swlm.onrender.com/News/nigerians-are-building-affordable-alternatives-to-aws-and-google-cloud)  
-📌 [How to Stay Ahead in Tech](https://techscape-swlm.onrender.com/Careers/how-to-stay-ahead-in-tech)  
-📌 [OpenAI rolls out deep research to paying ChatGPT users](https://techscape-swlm.onrender.com/News/openai-rolls-out-deep-research-to-paying-chatgpt-users)
+📌 [xAI's Grok chatbot can now observe and interpret its surroundings.](https://techscape-swlm.onrender.com/Software/xais-grok-chatbot-can-now-observe-and-interpret-its-surroundings)  
+📌 [Suspended Columbia student raises $5.3M for an AI tool to cheat on everything.](https://techscape-swlm.onrender.com/Software/suspended-columbia-student-raises-53m-for-an-ai-tool-to-cheat-on-everything)  
+📌 [20 new tech unicorns have emerged in 2025.](https://techscape-swlm.onrender.com/News/20-new-tech-unicorns-have-emerged-in-2025)
 
 📖 **Read more on my [blog](techscape-swlm.onrender.com)**  
 
