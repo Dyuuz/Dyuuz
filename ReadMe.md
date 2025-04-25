@@ -1,16 +1,12 @@
 # Hi there, I'm **Lekan** 👋  
 
-🔹 **Django Developer | Python Geek | Software Engineer Explorer**  
-🔹 Passionate about **Backend Development, AI, and Machine Learning**  
-🔹 I enjoy **building scalable and secure web applications**  
-
 ---
 
-## 🚀 About Me  
 💻 I specialize in **Backend Development in software applications**  
-📊 Currently working on **Tech Scape Blog & internship programs**  
-📚 Exploring **Advanced Django concepts & System Security and Scalability**  
+📊 I've worked on **personal projects & internship projects**  
+📚 Equipped in **Advanced Django concepts & System Security and Scalability**  
 💡 Always eager to solve problems and optimize performance  
+🧑‍💻 Passionate about **Backend Development, AI, and Machine Learning**  
 
 ---
 
@@ -46,9 +42,9 @@
 
 ## 📝 Recent TechScape Blog Posts  
 
-📌 [Nigerians are building affordable alternatives to AWS and Google Cloud](https://techscape-swlm.onrender.com/News/nigerians-are-building-affordable-alternatives-to-aws-and-google-cloud)  
-📌 [How to Stay Ahead in Tech](https://techscape-swlm.onrender.com/Careers/how-to-stay-ahead-in-tech)  
-📌 [OpenAI rolls out deep research to paying ChatGPT users](https://techscape-swlm.onrender.com/News/openai-rolls-out-deep-research-to-paying-chatgpt-users)
+📌 [xAI's Grok chatbot can now observe and interpret its surroundings.](https://techscape-swlm.onrender.com/Software/xais-grok-chatbot-can-now-observe-and-interpret-its-surroundings)  
+📌 [Suspended Columbia student raises $5.3M for an AI tool to cheat on everything.](https://techscape-swlm.onrender.com/Software/suspended-columbia-student-raises-53m-for-an-ai-tool-to-cheat-on-everything)  
+📌 [20 new tech unicorns have emerged in 2025.](https://techscape-swlm.onrender.com/News/20-new-tech-unicorns-have-emerged-in-2025)
 
 📖 **Read more on my [blog](techscape-swlm.onrender.com)**  
 
@@ -121,6 +117,6 @@
 🔥 **I believe every problem has a pythonic solution**  
 🧑‍💻 **Python was my first love... and Django made it even stronger.**
 
----
+--- 
 
 ### Want to collaborate or chat about ideas? **Let’s connect!** 🚀
