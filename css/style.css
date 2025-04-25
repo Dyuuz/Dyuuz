@@ -71,6 +71,7 @@ h1, h2, h3, h4, h5, h6{
 }
 img{
 	max-width:100%;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.798);
 }
 
 
@@ -1217,9 +1218,18 @@ body.section-switching.up .animation-block{
 	font-size:16px;
 	line-height:1.6em;
 	font-style:italic;
-	color:rgba(0,0,0,.4);
+	color:rgba(0, 0, 0, 0.556);
 	margin:0;
 	margin-top:5px;
+}
+.contact-info > p > a{
+	background-color: transparent;
+	color: inherit;
+	text-decoration: underline;
+}
+.contact-info > p > a:hoer{
+	background-color: transparent;
+	color:rgba(0, 0, 0, 0.816);
 }
 @media(min-width:992px){
 	.contact-info-icons{
@@ -1500,4 +1510,16 @@ body.loaded #preloader .loader{
 
 a i {
     font-size: 12px;
+}
+
+.inner > h4{
+	color: #2a52a2d1;
+	font-weight: 500;
+	letter-spacing: 1px;
+	background-color: white;
+	width: max-content;
+	padding: 5px;
+	border-radius: 5px;
+	align-self: center;
+	justify-self: center;
 }
