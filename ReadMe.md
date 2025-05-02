@@ -8,6 +8,9 @@
 💡 Always eager to solve problems and optimize performance  
 🧑‍💻 Passionate about **Backend Development, AI, and Machine Learning**  
 
+## Portfolio 
+[Portfolio Link](https://lekanoyesunle.vercel.app)
+
 ---
 
 ## 🏆 Top Projects  
