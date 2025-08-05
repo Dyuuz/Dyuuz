@@ -3,10 +3,10 @@
 ---
 
 💻 I specialize in **Backend Development in software applications**  
-📊 I've worked on **personal projects & internship projects**  
-📚 Equipped in **Advanced Django concepts & System Security and Scalability**  
-💡 Always eager to solve problems and optimize performance  
-🧑‍💻 Passionate about **Backend Development, AI, and Machine Learning**  
+📊 I've worked on **personal projects, internship & live projects**  
+📚 Equipped in **Advanced Python Frameworks concept & System Security and Scalability**  
+💡 Always eager to optimize performance, solve problems and make impacts
+🧑‍💻 Passionate about ** AI and Web3**  
 
 ## Portfolio 
 [Portfolio Link](https://lekanoyesunle.vercel.app)
