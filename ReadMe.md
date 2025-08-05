@@ -6,7 +6,6 @@
 📊 I've worked on **personal projects, internship & live projects**  
 📚 Equipped in **Advanced Python Frameworks concept & System Security and Scalability**  
 💡 Always eager to **optimize performance, solve problems and make impacts**
-
 🧑‍💻 Passionate about **AI and Web3**  
 
 ## Portfolio 
