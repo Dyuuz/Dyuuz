@@ -82,13 +82,13 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dyuuz&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dyuuz&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dyuuz&theme=react-dark" alt="GitHub Activity Graph"/>
 </div>  
 
 ---
 
-## 🏆 **GitHub Achievements & Highlights**  
+<!-- ## 🏆 **GitHub Achievements & Highlights**  
 
 🌟 **Tech Explorer** – Always learning and exploring new technologies!  
 ![Tech Explorer](https://img.shields.io/badge/Tech_Explorer-%F0%9F%8C%9F-blue?style=for-the-badge)  
@@ -106,7 +106,7 @@
 🔥 **Open Source Contributor** – Committed to improving and sharing knowledge!  
 ![Open Source](https://img.shields.io/badge/Open_Source_Contributor-%E2%9C%A8-blueviolet?style=for-the-badge)
 
----
+--- -->
 
 ## 🌐 Connect with Me  
 
