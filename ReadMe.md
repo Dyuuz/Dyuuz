@@ -13,7 +13,7 @@
 
 ---
 
-## 🏆 Top Projects  
+<!-- ## 🏆 Top Projects  
 
 ### 🔐 **Data Vault System**  
 *A secure system for managing encrypted user data with unique access tokens.*  
@@ -51,7 +51,7 @@
 
 📖 **Read more on my [blog](techscape-swlm.onrender.com)**  
 
----
+--- -->
 
 ## 🛠️ Languages & Tools  
 
