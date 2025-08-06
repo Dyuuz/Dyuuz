@@ -73,8 +73,10 @@
 
 ### **Frameworks & Libraries**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-6E9FBC?style=for-the-badge&logo=lock&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[![PyPI version](https://img.shields.io/pypi/v/djangorestframework)](https://pypi.org/project/djangorestframework/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis%20Library-yellow)](https://pandas.pydata.org/)
+![Cryptography](https://img.shields.io/badge/Cryptography-6E9FBC?style=for-the-badge&logo=lock&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
