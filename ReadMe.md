@@ -83,6 +83,9 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### **Databases & Cloud**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
