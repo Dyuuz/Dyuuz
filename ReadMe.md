@@ -6,7 +6,9 @@ I design production-grade backend architectures with clean separation of concern
 
 💻 I specialize in:
 
-  - ⚙️ Backend Systems Architecture  
+  - ⚙️ Backend Systems Architecture
+    
+  - 🔌 Scalable APIs
   
   - 🌐 Full-Stack Web Engineering  
   
